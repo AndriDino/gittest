@@ -2,6 +2,11 @@
 
 This is a cool project
 
-## This is a Heading Also
+## Index.html
 
-This is something new
+This is the default file for this project
+
+
+## style.css
+
+This is the style sheet for the project
